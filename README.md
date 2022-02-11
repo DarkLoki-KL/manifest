@@ -1,6 +1,6 @@
 # BlackHole OS #
 
-### To build BlackHole OS yor'll need : ###
+### To build BlackHole OS you’ll  need : ###
 
 ```bash
 
