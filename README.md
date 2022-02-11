@@ -86,6 +86,7 @@ ccache -o compression=true
 ```bash
 
 cd ~/android/blackhole
+
 # Initialize local repository
 repo init -u https://github.com/BlackHoleOS/manifest -b main
 
